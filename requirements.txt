@@ -14,3 +14,8 @@ pandas==1.5.3
 openpyxl==3.0.7
 requests==2.27.0
 xlsxwriter
+tzlocal==4.3
+google-cloud-storage==2.10.0
+sqlalchemy
+psycopg2
+
